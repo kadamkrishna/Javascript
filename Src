@@ -1,2 +1,19 @@
 
 //Spotify clone building//
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Spotify - For Music Lovers</title>
+</head>
+<body>
+
+<nav>
+   <ul>
+     <li>Home</li>
+     <li>About</li>
+   </ul>
+</nav>
+
+</body>
+</html>
